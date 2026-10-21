@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/demo/hero-banner.jpg" alt="УрЮИ МВД — анализ мишени №4" width="920"/>
+  <img src="docs/demo/hero-banner.jpg" alt="Анализ мишени №4" width="920"/>
 </p>
 
-<h1 align="center">УрЮИ МВД · Target Bot</h1>
+<h1 align="center">Target Bot</h1>
 
 <p align="center">
   Чат-бот в <b>MAX</b> для анализа грудной мишени №4:<br/>
