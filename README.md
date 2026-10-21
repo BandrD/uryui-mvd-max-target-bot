@@ -167,8 +167,7 @@ pytest -q
 ## Статус
 
 Прототип НИР для **УрЮИ МВД РФ (Екатеринбург)**.  
-Канал доставки — **MAX** (вместо Telegram из исходного ТЗ).  
-Карта 10 секторов сейчас *provisional* (`assets/sector_map.json`) и уточняется с заказчиком.
+Канал доставки — **MAX**
 
 <p align="center">
   <sub>Made for training / admissions lab workflows · OpenCV · MAX Bot API · GigaChat</sub>
